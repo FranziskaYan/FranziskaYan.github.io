@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Visiting Researcher in Statistical and Relational Artificial Intelligence (StarAI) Lab, University of California, Los Angeles, CA
+* {\bf Visiting Researcher} at Statistical and Relational Artificial Intelligence (StarAI) Lab, University of California, Los Angeles, CA
   * Date: Jul 2019 - PRESENT
   * Thesis: Hybrid Probabilistic Inference with Logical Constraints and Probabilistic Graphical Models
 * M.S. in Computational Mathematics, University of Chinese Academy of Sciences, China
@@ -24,11 +24,11 @@ Education
   * Member of the Qiushi Pursuit Science Class (Mathematics), an exclusive program for intensive training in mathematics
   * GPA: 3.61/4.00
   * Courses: Abstract Algebra, Differential Geometry, Functional Analysis, Point Set Topology, Complex variable Functions, Real Variable Analysis, C Programming Language & Lab, Mathematical Statistics, Stochastic Processes, Probability Theory, Discrete Mathematics, Mathematical Modeling
-* Visiting student in Institut des sciences du calcul et des données, Université Pierre et Marie Curie, France
+* Visiting Student, Institut des sciences du calcul et des données, Université Pierre et Marie Curie, France
   * Date: Jul 2018 - Aug 2018
   * Summer Program in Scientific Trends at the Interfaces: Mathematics - Chemistry - High Performance Computing
   * Topics: Optimization Algorithm and Electronic Structure Calculation (Neural Network Classification), Molecular Dynamics and Mathematics (Markov Chain Monte Carlo), Plane Wave Method for Solving Eigenvalue Problems
-* Exchange student in School of Mathematics and Statistics, University of New South Wales, Australia
+* Exchange Student, School of Mathematics and Statistics, University of New South Wales, Australia
   * Date: Jul 2014 - Nov 2014
   * Rank: High Distiction & Distiction
   * Courses: Abstract Algebra and Fundamental Analysis, Higher Complex Analysis, Linear Models, Mathematical Method and Partial Differential Equations
