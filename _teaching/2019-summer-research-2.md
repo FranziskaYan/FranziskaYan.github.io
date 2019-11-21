@@ -7,8 +7,8 @@ venue: "StarAI Lab, UCLA"
 date: 2019-07-01
 location: "Los Angeles, CA"
 ---
-Advisor: Prof. Guy Van den Broeck, StarAL Lab, UCLA
-Date: Jul 2019 - Sep 2019
+* Advisor: Prof. Guy Van den Broeck, StarAL Lab, UCLA
+* Date: Jul 2019 - Sep 2019
 * Studied the basic theory and algorithm of Modeling and Reasoning with Bayesian Networks
 * Proposed the moment calculation algorithm of the SMT($\mathcal{LRA}$) random variables for Weighted Model Integration (WMI), Derived the marginal probability density function for WMI
 * Improved the numerical integration step for the algorithm of efficient search-based WMI using Gaussian quadrature rules
