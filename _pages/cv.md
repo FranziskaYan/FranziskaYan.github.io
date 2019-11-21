@@ -56,13 +56,13 @@ Internship
   
 Selected Honors & Awards
 ======
+* Excellent Student of University of Chinese Academy of Sciences (top 5%), 2018 2019
 * Outstanding Graduate of Zhejiang University Awarded on Undergraduate period, Jun 2016
 * First-Class Scholarship for Elite Students in Basic Sciences, 2013 2015
-* Excellent Student of University of Chinese Academy of Sciences (top 5%), 2018 2019
-* Second Award of The 12th College Students Mathematical Modeling Competition of ZJU, Jun 2014
 * Excellent Students Awards (top 5%), 2013 2015
-* Scholarship for Outstanding Students (top 8%), 2015
-* Scholarship for Outstanding Merits (top 8%), 2015
+* Second Award of The 12th College Students Mathematical Modeling Competition of ZJU, Jun 2014
+* Scholarship for Outstanding Students (top 8%), Dec 2015
+* Scholarship for Outstanding Merits (top 8%), Dec 2015
 * Excellent Student Scholarship of Fu Hui Charity Foundation (top 1%), 2009-2012
 
 Extracurricular Activity
