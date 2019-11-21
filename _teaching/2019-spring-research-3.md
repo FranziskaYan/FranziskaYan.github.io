@@ -1,5 +1,5 @@
 ---
-title: "Some Studies on Adaptive Finite Element Method (AFEM) for Schr$\"{o}$dinger Equation of Hydrogen Atom"
+title: "Some Studies on Adaptive Finite Element Method (AFEM) for Schrödinger Equation of Hydrogen Atom"
 collection: research
 type: "Graduate Research"
 permalink: /teaching/2019-spring-research-3
