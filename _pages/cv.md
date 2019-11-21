@@ -82,7 +82,7 @@ Skills
 * Programming
   * C, Python, MATLAB, LaTeX, R
 * Languages
-  * Chinese (Native), English (Fluent), Germany (Conversationa)
+  * Chinese (Native), English (Fluent), Germany (Conversational)
 * Interests
   * Swimming, Reading, Erhu (Chinese Musical Instrument), Chinese Calligraphy
   
