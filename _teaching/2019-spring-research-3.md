@@ -13,7 +13,7 @@ location: "Beijing, China"
 * Wrote shell scripts under Linux environmen
 * Used C language and Parallel Hierarchical Grid (PHG) package to find finite element solutions and visualize partial differential equations
 * Designed algorithms to reduce the computational error and iterations caused by hydrogen atom's small spectral gap in numerical solutions to generalized linear eigenvalue problems
-* Proposed the proper arrangement of initial mesh \ 
+* Proposed the proper arrangement of initial mesh  
   Improved the effective polynomial order for the finite element in the discretization of Kohn-Sham equation
 * Designed two integration strategies to calculate the singular integral, Suppressed the error caused by the singularity
 * Analyzed the computational error from three aspects: model error, approximation error and numerical error \
