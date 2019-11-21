@@ -16,5 +16,5 @@ location: "Beijing, China"
 * Proposed the proper arrangement of initial mesh  
   Improved the effective polynomial order for the finite element in the discretization of Kohn-Sham equation
 * Designed two integration strategies to calculate the singular integral, Suppressed the error caused by the singularity
-* Analyzed the computational error from three aspects: model error, approximation error and numerical error \
+* Analyzed the computational error from three aspects: model error, approximation error and numerical error 
   Reduced the model error and numerical error,  Obtained  the variation curves of the approximation error which is the core of finite element approximation with the increase of the polynomial order for the finite element
