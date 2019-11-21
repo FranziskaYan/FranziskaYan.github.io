@@ -33,6 +33,13 @@ Education
   * Rank: High Distiction & Distiction
   * Courses: Abstract Algebra and Fundamental Analysis, Higher Complex Analysis, Linear Models, Mathematical Method and Partial Differential Equations
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+ 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -54,11 +61,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
