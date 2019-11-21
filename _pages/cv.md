@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+Education
 ======
 * Visiting Researcher in Statistical and Relational Artificial Intelligence (StarAI) Lab, University of California, Los Angeles, CA
   * Date: Jul 2019 - PRESENT
@@ -33,7 +33,7 @@ redirect_from:
   * Rank: High Distiction & Distiction
   * Courses: Abstract Algebra and Fundamental Analysis, Higher Complex Analysis, Linear Models, Mathematical Method and Partial Differential Equations
 
-## Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
