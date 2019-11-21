@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fanqi Yan"
+title                    : "Fanqi (Franziska) Yan"
 title_separator          : "-"
 name                     : &name "Fanqi Yan"
-description              : &description "personal description"
+description              : &description "Visting Researcher at StarAI Lab, UCLA"
 url                      : https://franziskayan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "franziskayan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
