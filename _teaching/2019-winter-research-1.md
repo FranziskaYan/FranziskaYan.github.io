@@ -6,6 +6,7 @@ venue: "StarAI Lab, UCLA"
 date: 2019-10-01
 location: "Los Angeles, CA"
 ---
+* Advisor: Prof. Guy Van den Broeck, StarAL Lab, UCLA
 * Date: Sep 2019 - PRESENT
 * Proposed a novel algorithm to approximate Model Integration (MI) inference within the RCR framework, comprise two phases:
   * \textit{relaxing} an intractable MI problem by distilling a simpler one amenable to exact inference out of it
