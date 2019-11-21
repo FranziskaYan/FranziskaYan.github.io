@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Scaling Hybrid Probabilistic Inference with Logical Constraints by Relaxing and Compensating"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
