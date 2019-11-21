@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Fanqi Yan"
-  avatar           : "profile.png"
+  avatar           : "2018-08-12 150351.jpg"
   bio              : "Visiting Researcher at StarAI Lab, UCLA"
   location         : "Los Angeles, California"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "fanqi_yan@lsec.cc.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
