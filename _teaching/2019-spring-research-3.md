@@ -2,6 +2,7 @@
 title: "Some Studies on Adaptive Finite Element Method (AFEM) for Schr\"{o}dinger Equation of Hydrogen Atom"
 collection: research
 type: "Graduate Research"
+permalink: /teaching/2019-spring-research-3
 venue: "LSEC, UCAS"
 date: 2019-03-01
 location: "Beijing, China"
