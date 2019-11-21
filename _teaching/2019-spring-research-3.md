@@ -7,7 +7,8 @@ venue: "LSEC, UCAS"
 date: 2019-03-01
 location: "Beijing, China"
 ---
-
+* Advisor: Prof. Aihui Zhou & Xiaoying Dai 
+* Date: Sep 2017 - May 2019
 * Reviewed the basic theory and algorithm of AFEM for elliptic boundary value and eigenvalue problems, including a priori error estimation, a posteriori error estimation, adaptive mesh-refinement techniques, convergence rate and optimal complexity; presented at group meetings
 * Reviewed the first principles electronic structure calculations, both the mathematical foundation and physical background
 * Wrote shell scripts under Linux environmen
