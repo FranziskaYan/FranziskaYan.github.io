@@ -10,5 +10,5 @@ location: "Hangzhou, China"
 * Advisor: Prof. Shuping Chen
 * Date: Jun 2014 - May 2015
 * Abstracted the mathematical model for a real life problem: Designed various phase combinations for different intersections to improve traffic capacity and reduce vehicle delay
-* Simplified traffic flow into three phases using Graph Theory
+* Simplified the traffic flow into three phases using Graph Theory
 * Proposed the linear programming for the best phase combination optimized for each intersection
