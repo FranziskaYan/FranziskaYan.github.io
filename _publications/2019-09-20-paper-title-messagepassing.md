@@ -1,7 +1,6 @@
 ---
 title: "Hybrid Probabilistic Inference with Logical Constraints: Tractability and Message Passing"
 collection: publications
-#permalink: /publication/2019-09-20-paper-title-messagepassing
 excerpt: 'We proposed a novel formulation of model integration (MI) via a message passing scheme that allows to efficiently compute the marginal densities and statistical moments of all the variables in linear time. As such, we are able to amortize inference for rich MI queries when they conform to the problem structure i.e. the primal graph associated to the SMT formula.'
 date: 2019-09-20
 venue: 'Arxiv'
