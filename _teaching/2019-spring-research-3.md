@@ -1,23 +1,19 @@
-{\rtf1\ansi\ansicpg936\cocoartf1671\cocoasubrtf600
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+---
+title: "Some Studies on Adaptive Finite Element Method (AFEM) for Schr\"{o}dinger Equation of Hydrogen Atom"
+collection: research
+type: "Graduate Research"
+permalink: /research/2019-spring-research-3
+venue: "LSEC, UCAS"
+date: 2019-03-01
+location: "Beijing, China"
+---
 
-\f0\fs24 \cf0 ---\
-title: "Hybrid Probabilistic Inference with Logical Constraints: Tractability and Message Passing"\
-collection: teaching\
-type: "Research Scholar"\
-permalink: /teaching/2019-spring-research-3\
-venue: "StarAI Lab, UCLA"\
-date: 2019-07-01\
-location: "Los Angeles, CA"\
----\
-\
-* Studied the basic theory and algorithm of Modeling and Reasoning with Bayesian Networks\
-* Proposed the moment calculation algorithm of the SMT($\\mathcal\{LRA\}$) random variables for Weighted Model Integration (WMI), Derived the marginal probability density function for WMI\
-* Improved the numerical integration step for the algorithm of efficient search-based WMI using Gaussian quadrature rules\
-* Devised a novel formulation of MI via an exact message passing scheme on the tractable MI problems  adopting symbolic integration,  which is able to exactly compute all the variable marginal densities -- as well as statistical moments -- at once\
-* Proposed an example involving both boolean and continuous variables, both disjunction and conjunction, Elaborated the procedure reducing WMI to MI, passing by WMI$_\{\\mathbb\{R\}\}$\
-* Finished the paper-writing on this work and posted the paper to arXiv as joint first author}
+* Reviewed the basic theory and algorithm of AFEM for elliptic boundary value and eigenvalue problems, including a priori error estimation, a posteriori error estimation, adaptive mesh-refinement techniques, convergence rate and optimal complexity; presented at group meetings
+* Reviewed the first principles electronic structure calculations, both the mathematical foundation and physical background
+* Wrote shell scripts under Linux environmen
+* Used C language and Parallel Hierarchical Grid (PHG) package to find finite element solutions and visualize partial differential equations
+* Designed algorithms to reduce the computational error and iterations caused by hydrogen atom's small spectral gap in numerical solutions to generalized linear eigenvalue problems
+* Proposed the proper arrangement of initial mesh, Improved the effective polynomial order for the finite element in the discretization of Kohn-Sham equation
+* Designed two integration strategies to calculate the singular integral, Suppressed the error caused by the singularity
+* Analyzed the computational error from three aspects: model error, approximation error and numerical error \\
+  Reduced the model error and numerical error,  Obtained  the variation curves of the approximation error which is the core of finite element approximation with the increase of the polynomial order for the finite element
