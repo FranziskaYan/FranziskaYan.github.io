@@ -80,20 +80,10 @@ Skills
   * Chinese (Native), English (Fluent), Germany (Conversationa)
 * Interests
   * Swimming, Reading, Erhu (Chinese Musical Instrument), Chinese Calligraphy
-
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+Research
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
