@@ -1,6 +1,6 @@
 ---
 title: "Hybrid Probabilistic Inference with Logical Constraints: Tractability and Message Passing"
-collection: teaching
+collection: research
 type: "Research Scholar"
 permalink: /teaching/2019-summer-research-2
 venue: "StarAI Lab, UCLA"
