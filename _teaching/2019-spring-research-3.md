@@ -2,7 +2,6 @@
 title: "Some Studies on Adaptive Finite Element Method (AFEM) for Schr\"{o}dinger Equation of Hydrogen Atom"
 collection: research
 type: "Graduate Research"
-permalink: /research/2019-spring-research-3
 venue: "LSEC, UCAS"
 date: 2019-03-01
 location: "Beijing, China"
@@ -16,5 +15,5 @@ location: "Beijing, China"
 * Proposed the proper arrangement of initial mesh  
   Improved the effective polynomial order for the finite element in the discretization of Kohn-Sham equation
 * Designed two integration strategies to calculate the singular integral, Suppressed the error caused by the singularity
-* Analyzed the computational error from three aspects: model error, approximation error and numerical error \
+* Analyzed the computational error from three aspects: model error, approximation error and numerical error 
   Reduced the model error and numerical error,  Obtained  the variation curves of the approximation error which is the core of finite element approximation with the increase of the polynomial order for the finite element
