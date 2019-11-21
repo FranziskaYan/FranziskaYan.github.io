@@ -27,7 +27,7 @@ Education
 * Visiting student in Institut des sciences du calcul et des données, Université Pierre et Marie Curie, France
   * Date: Jul 2018 - Aug 2018
   * Summer Program in Scientific Trends at the Interfaces: Mathematics - Chemistry - High Performance Computing
-  * Courses: Optimization Algorithm and Electronic Structure Calculation (Neural Network Classification), Molecular Dynamics and Mathematics (Markov Chain Monte Carlo), Plane Wave Method for Solving Eigenvalue Problems
+  * Topics: Optimization Algorithm and Electronic Structure Calculation (Neural Network Classification), Molecular Dynamics and Mathematics (Markov Chain Monte Carlo), Plane Wave Method for Solving Eigenvalue Problems
 * Exchange student in School of Mathematics and Statistics, University of New South Wales, Australia
   * Date: Jul 2014 - Nov 2014
   * Rank: High Distiction & Distiction
