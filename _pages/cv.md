@@ -39,6 +39,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Research
+======
+  <ul>{% for post in site.research %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
  
 Internship
 ======
@@ -81,9 +86,4 @@ Skills
 * Interests
   * Swimming, Reading, Erhu (Chinese Musical Instrument), Chinese Calligraphy
   
-Research
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
