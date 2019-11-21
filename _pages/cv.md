@@ -11,7 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computational Mathematics, University of Chinese Academy of Sciences (UCAS), China
+  * Date: Sep 2016 - Jun 2019
+  * Thesis: Adaptive Finite Element Methods (AFEM) and Local Algorithms for First Principles Electronic Structure Calculations and Generalized Eigenvalue Problems
+  * GPA: 86.43/100
+  * Courses: Functional Analysis, Computational Methods for Optimization,  Numerical Linear Algebra,  Numerical Approximation, Numerical Methods for Eigenvalue Problem, The Mathematical Bases of Finite Element Methods
+* Visiting Researcher in Statistical and Relational Artificial Intelligence (StarAI) Lab, Statistical and Relational Artificial Intelligence (StarAI) Lab, Los Angeles
+  * Date: Jul 2019 - PRESENT
+  * Thesis: Hybrid Probabilistic Inference with Logical Constraints and Probabilistic Graphical Models
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
