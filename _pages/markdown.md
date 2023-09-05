@@ -9,8 +9,6 @@ redirect_from:
 
 Please feel free to contact me! Below is my contact information, including email and various web services.
 
-* E-mail: fanqi_yan@lsec.cc.ac.cn
-
+* E-mail: fanqi.yan@utexas.edu
 * Twitter: Franzis52473613
 
-* WeChat: wandern-
