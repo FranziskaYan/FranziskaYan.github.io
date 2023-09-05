@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Fanqi Yan"
   avatar           : "photo-website-1.jpg"
-  bio              : "Visiting Researcher at StarAI Lab, UCLA"
-  location         : "Los Angeles, California"
+  bio              : "PhD student at Data Science and Machine Learning (DSML) Lab, UT Austin"#"Visiting Researcher at StarAI Lab, UCLA"
+  location         : "Austin, Texas"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
