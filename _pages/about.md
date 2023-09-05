@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I’m Fanqi Yan; thanks for visiting my homepage. 
 
-Now I'm a PhD student in the department of Computer Science, the University of Texas at Austin (UT Austin). It’s very lucky for me to be supervised by Professor [Nhat Ho](https://nhatptnk8912.github.io/). My research interests are machine learning, optimization, partial differential equations and eigenvalue problems, now mainly focus on the mixture of experts.
+Now I'm a PhD student in the department of Computer Science, the University of Texas at Austin (UT Austin). It’s very lucky for me to be supervised by Professor [Nhat Ho](https://nhatptnk8912.github.io/). My research interests are machine learning theory, optimization, partial differential equations and eigenvalue problems, now mainly focus on the mixture of experts.
 
 Previously I’m a visiting researcher at [Statistical and Relational Artificial Intelligence (StarAI) Lab](http://starai.cs.ucla.edu/members/) in Computer Science at University of California, Los Angeles (UCLA), supervised by Professor [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/). 
 
