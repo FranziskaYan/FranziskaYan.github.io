@@ -7,8 +7,9 @@
   - /markdown.html
 ---
 
-Please feel free to contact me! Below is my contact information, including email and various web services.
+Please feel free to contact me! 
+<!--Below is my contact information, including email and various web services.-->
 
-* E-mail: fanqi.yan@utexas.edu
-* Twitter: Franzis52473613
+<!--* E-mail: fanqi.yan@utexas.edu-->
+<!--* Twitter: Franzis52473613-->
 ---
