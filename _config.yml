@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :  "fanqi_yan@lsec.cc.ac.cn"
+  email            :  "fanqi.yan@utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FranziskaYan"
+  github           : #"FranziskaYan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "fanqiyan"
+  linkedin         : #"fanqiyan"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
