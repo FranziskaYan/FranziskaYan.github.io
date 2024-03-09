@@ -16,7 +16,7 @@ author_profile: true
 * [Is Parameter Learning via Weighted Model Integration Tractable?](https://openreview.net/pdf?id=eecWixvAEeZ)
   TPM Workshop at UAI 2021
 
-  Zhe Zeng*, Paolo Morettin*, Fanqi Yan*, Antonio Vergari, Guy Van den Broeck
+  Zhe Zeng\*, Paolo Morettin\*, Fanqi Yan\*, Antonio Vergari, Guy Van den Broeck
 
 
 * [Probabilistic Inference with Algebraic Constraints: Theoretical Limits and Practical Approximations](https://proceedings.neurips.cc/paper/2020/hash/85934679f30131d812a8c7475a7d0f74-Abstract.html)
