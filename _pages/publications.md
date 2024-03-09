@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts. 
+Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts. (https://arxiv.org/pdf/2309.13850.pdf)
 Proceedings of the ICLR, 2024.
 Huy Nguyen, Pedram Akbarian, Fanqi Yan, Nhat Ho
 
