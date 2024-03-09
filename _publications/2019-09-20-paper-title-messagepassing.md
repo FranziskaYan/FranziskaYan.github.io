@@ -1,3 +1,4 @@
+<div style='display: none'>
 ---
 title: "Hybrid Probabilistic Inference with Logical Constraints: Tractability and Message Passing"
 collection: publications
@@ -15,3 +16,4 @@ We proposed a novel formulation of model integration (MI) via a message passing 
 
 Z. Zeng*, F. Yan*, P. Morettin*, A. Vergari and G. V. D. Broeck. Hybrid Probabilistic Inference with Logical Constraints: Tractability and Message Passing. ArXiv e-prints, September 2019.
 (*Equally contribution, accepted by KR2ML workshop in NeuIPS 19).
+</div>
