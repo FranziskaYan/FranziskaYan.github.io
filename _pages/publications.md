@@ -6,12 +6,11 @@ author_profile: true
 ---
 (*) denotes equal contribution
 ---
-Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts. 
-(https://arxiv.org/pdf/2309.13850.pdf)
+* [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2309.13850.pdf)
 Proceedings of the ICLR, 2024.
 Huy Nguyen, Pedram Akbarian, Fanqi Yan, Nhat Ho
 ---
-Is Parameter Learning via Weighted Model Integration Tractable?
+* [Is Parameter Learning via Weighted Model Integration Tractable?](https://openreview.net/pdf?id=eecWixvAEeZ)
 TPM Workshop at UAI 2021
 Zhe Zeng*, Paolo Morettin*, Fanqi Yan*, Antonio Vergari, Guy Van den Broeck
 ---
