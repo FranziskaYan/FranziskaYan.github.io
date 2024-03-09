@@ -11,10 +11,13 @@ redirect_from:
 
 Education
 ======
+--- 
+* Ph.D. in Computer Science, The University of Texas at Austin, TX, US
+ * Project: Mixture of Experts
 ---
 * Visiting Researcher at Statistical and Relational Artificial Intelligence (StarAI) Lab, University of California, Los Angeles, CA
 <!--  * Date: Jul 2019 - PRESENT -->
-* Thesis: Hybrid Probabilistic Inference with Logical Constraints and Probabilistic Graphical Models
+ * Project: Hybrid Probabilistic Inference with Logical Constraints and Probabilistic Graphical Models
 --- 
 * M.S. in Computational Mathematics, University of Chinese Academy of Sciences, China
 <!--   * Date: Sep 2016 - Jun 2019 -->
