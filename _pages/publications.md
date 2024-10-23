@@ -7,6 +7,8 @@ author_profile: true
 
   (*) denotes equal contribution
 
++ [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258) <br /> Arxiv <br />Fanqi Yan\*, Huy Nguyen\*, Dung Le\*, Pedram Akbarian, Nhat Ho
+
 + [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2309.13850.pdf) <br /> ICLR 2024 <br />Huy Nguyen, Pedram Akbarian, Fanqi Yan, Nhat Ho
 
 
