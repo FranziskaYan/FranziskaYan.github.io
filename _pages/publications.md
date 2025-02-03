@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-  (*) denotes equal contribution
+  (*) denotes equal contribution, (+) denotes co-last authors
++ [Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://arxiv.org/abs/2410.12258) <br /> ArXiv <br />Fanqi Yan\*, Huy Nguyen\*, Pedram Akbarian, Nhat Ho\+, Alessandro Rinaldo\+
 
-+ [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258) <br /> Arxiv <br />Fanqi Yan\*, Huy Nguyen\*, Dung Le\*, Pedram Akbarian, Nhat Ho
++ [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258) <br /> AISTATS 2025 <br />Fanqi Yan\*, Huy Nguyen\*, Dung Le\*, Pedram Akbarian, Nhat Ho
 
 + [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2309.13850.pdf) <br /> ICLR 2024 <br />Huy Nguyen, Pedram Akbarian, Fanqi Yan, Nhat Ho
 
