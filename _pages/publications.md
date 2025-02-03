@@ -6,7 +6,7 @@ author_profile: true
 ---
 
   (*) denotes equal contribution, (+) denotes co-last authors
-+ [Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://arxiv.org/abs/2410.12258) <br /> ArXiv <br />Fanqi Yan\*, Huy Nguyen\*, Pedram Akbarian, Nhat Ho\+, Alessandro Rinaldo\+
++ [Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://arxiv.org/abs/2410.12258) <br /> ArXiv <br />Fanqi Yan\*, Huy Nguyen\*, Pedram Akbarian, Nhat Ho\$\dagger$, Alessandro Rinaldo\+
 
 + [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258) <br /> AISTATS 2025 <br />Fanqi Yan\*, Huy Nguyen\*, Dung Le\*, Pedram Akbarian, Nhat Ho
 
