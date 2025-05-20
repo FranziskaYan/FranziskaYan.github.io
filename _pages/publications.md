@@ -50,4 +50,7 @@ author_profile: true
 {% endfor %}
 
 Conference Reviewing:
-ICML 2024, ICLR 2025
+ICML 2024, [ICLR 2025 Notable Reviewers](https://iclr.cc/Conferences/2025/Reviewers), Neurips 2025
+
+Journal Reviewing:
+JMLR
