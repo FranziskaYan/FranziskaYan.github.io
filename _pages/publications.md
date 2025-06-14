@@ -57,4 +57,4 @@ Conference Reviewing:
 ICML 2024, [ICLR 2025 Notable Reviewers](https://iclr.cc/Conferences/2025/Reviewers), NeurIPS 2025
 
 Journal Reviewing:
-JMLR
+[![Reviewer for JMLR](https://jmlr.org/assets/jmlr-reviewer-badge-light.svg)](https://jmlr.org/reviewer-badge/)
