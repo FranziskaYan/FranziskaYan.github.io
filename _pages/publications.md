@@ -53,8 +53,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Conference Reviewing:
-ICML 2024, [ICLR 2025 Notable Reviewers](https://iclr.cc/Conferences/2025/Reviewers), NeurIPS 2025
 
-Journal Reviewing:
-[![Reviewer for JMLR](https://jmlr.org/assets/jmlr-reviewer-badge-light.svg)](https://jmlr.org/reviewer-badge/)
+**Conference Reviewing:**  
+ICML 2024, [ICLR 2025 Notable Reviewer](https://iclr.cc/Conferences/2025/Reviewers), NeurIPS 2025  
+
+**Journal Reviewing:**  
+[JMLR Reviewer](https://jmlr.org/reviewer-badge/) ![JMLR Badge](https://jmlr.org/assets/jmlr-reviewer-badge-light.png)
+
